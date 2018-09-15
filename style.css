@@ -1,0 +1,17 @@
+h1{
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 65px;
+    
+}
+img {
+    max-width: 30%;
+    height: auto;
+    border-radius: 50%;
+    border: 9px solid black
+}
+body{
+    color: green;
+    text-align: center;
+}
